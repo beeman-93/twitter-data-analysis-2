@@ -1,0 +1,65 @@
+Cluster 0
+ go
+ stressful
+ day
+ even
+ home
+ much
+ coronavirus
+ take
+ wonder
+ stress
+
+
+Cluster 1
+ stress
+ time
+ really
+ want
+ think
+ work
+ get
+ go
+ relieve
+ throat
+
+
+Cluster 2
+ good
+ half
+ fatigue
+ let
+ start
+ tired
+ long
+ end
+ well
+ first
+
+
+Cluster 3
+ people
+ tired
+ stress
+ question
+ increase
+ work
+ feel
+ come
+ day
+ think
+
+
+Cluster 4
+ medical
+ stress
+ able
+ work
+ watch
+ lose
+ patient
+ know
+ see
+ fatigue
+
+
